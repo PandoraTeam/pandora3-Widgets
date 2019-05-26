@@ -1,0 +1,30 @@
+[submodule "Form"]
+	path = Form
+	url = https://github.com/PandoraTeam/pandora3-widget-Form.git
+[submodule "FormField"]
+	path = FormField
+	url = https://github.com/PandoraTeam/pandora3-widget-FormField.git
+[submodule "FieldText"]
+	path = FieldText
+	url = https://github.com/PandoraTeam/pandora3-widget-FieldText.git
+[submodule "FieldSelect"]
+	path = FieldSelect
+	url = https://github.com/PandoraTeam/pandora3-widget-FieldSelect.git
+[submodule "FieldTextarea"]
+	path = FieldTextarea
+	url = https://github.com/PandoraTeam/pandora3-widget-FieldTextarea.git
+[submodule "FieldRadio"]
+	path = FieldRadio
+	url = https://github.com/PandoraTeam/pandora3-widget-FieldRadio.git
+[submodule "FieldCheckbox"]
+	path = FieldCheckbox
+	url = https://github.com/PandoraTeam/pandora3-widget-FieldCheckbox.git
+[submodule "FieldHidden"]
+	path = FieldHidden
+	url = https://github.com/PandoraTeam/pandora3-widget-FieldHidden.git
+[submodule "FieldFile"]
+	path = FieldFile
+	url = https://github.com/PandoraTeam/pandora3-widget-FieldFile.git
+[submodule "FieldDate"]
+	path = FieldDate
+	url = https://github.com/PandoraTeam/pandora3-widget-FieldDate.git
