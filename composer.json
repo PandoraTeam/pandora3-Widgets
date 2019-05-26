@@ -15,9 +15,7 @@
 	"require": {
 		"php": ">=7.1"
 	},
-	"autoload": {
-		"psr-4": {
-			"Pandora3\\Widgets\\": "/"
-		}
+	"extra": {
+		"installer-name": "Widgets-meta"
 	}
 }
