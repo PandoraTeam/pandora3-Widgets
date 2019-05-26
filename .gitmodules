@@ -28,3 +28,6 @@
 [submodule "FieldDate"]
 	path = FieldDate
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldDate.git
+[submodule "ValidationForm"]
+	path = ValidationForm
+	url = https://github.com/PandoraTeam/pandora3-widget-ValidationForm.git
