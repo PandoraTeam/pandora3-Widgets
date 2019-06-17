@@ -14,5 +14,17 @@
 	],
 	"require": {
 		"php": ">=7.1"
+
+		"pandora3/widget-form": "^1.0",
+		"pandora3/widget-form-field": "^1.0",
+		"pandora3/widget-validation-form": "^1.0",
+		"pandora3/widget-field-hidden": "^1.0",
+		"pandora3/widget-field-text": "^1.0",
+		"pandora3/widget-field-textarea": "^1.0",
+		"pandora3/widget-field-select": "^1.0",
+		"pandora3/widget-field-checkbox": "^1.0",
+		"pandora3/widget-field-radio": "^1.0",
+		"pandora3/widget-field-file": "^1.0",
+		"pandora3/widget-field-date": "^1.0"
 	}
 }
