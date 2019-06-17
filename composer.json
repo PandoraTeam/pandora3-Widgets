@@ -13,7 +13,7 @@
 		}
 	],
 	"require": {
-		"php": ">=7.1"
+		"php": ">=7.1",
 
 		"pandora3/widget-form": "^1.0",
 		"pandora3/widget-form-field": "^1.0",
