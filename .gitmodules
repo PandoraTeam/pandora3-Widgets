@@ -1,33 +1,44 @@
 [submodule "Form"]
 	path = Form
 	url = https://github.com/PandoraTeam/pandora3-widget-Form.git
+	update = merge
 [submodule "FormField"]
 	path = FormField
 	url = https://github.com/PandoraTeam/pandora3-widget-FormField.git
+	update = merge
 [submodule "FieldText"]
 	path = FieldText
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldText.git
+	update = merge
 [submodule "FieldSelect"]
 	path = FieldSelect
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldSelect.git
+	update = merge
 [submodule "FieldTextarea"]
 	path = FieldTextarea
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldTextarea.git
+	update = merge
 [submodule "FieldRadio"]
 	path = FieldRadio
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldRadio.git
+	update = merge
 [submodule "FieldCheckbox"]
 	path = FieldCheckbox
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldCheckbox.git
+	update = merge
 [submodule "FieldHidden"]
 	path = FieldHidden
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldHidden.git
+	update = merge
 [submodule "FieldFile"]
 	path = FieldFile
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldFile.git
+	update = merge
 [submodule "FieldDate"]
 	path = FieldDate
 	url = https://github.com/PandoraTeam/pandora3-widget-FieldDate.git
+	update = merge
 [submodule "ValidationForm"]
 	path = ValidationForm
 	url = https://github.com/PandoraTeam/pandora3-widget-ValidationForm.git
+	update = merge
